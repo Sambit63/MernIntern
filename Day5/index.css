@@ -1,0 +1,11 @@
+.udiv{
+    border: 3px solid black;
+    background-color: bisque;
+}
+div{
+    border: 3px solid red;
+    border-radius: 7px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+
+}

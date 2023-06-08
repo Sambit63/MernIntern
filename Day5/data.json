@@ -1,0 +1,25 @@
+{
+  "mydata": [
+    {
+      "item": "Pizza",
+      "description": "Tastes good",
+      "image": "https://t3.ftcdn.net/jpg/01/14/51/60/360_F_114516029_Z2B6FO30AB6ZR3v9WHXjpXmJScaiLtzk.jpg",
+      "price": 234,
+      "id": 1
+    },
+    {
+      "item": "Pizza",
+      "description": "Tastes good",
+      "image": "https://t3.ftcdn.net/jpg/01/14/51/60/360_F_114516029_Z2B6FO30AB6ZR3v9WHXjpXmJScaiLtzk.jpg",
+      "price": 234,
+      "id": 2
+    },
+    {
+      "item": "Burger",
+      "description": "Tastes good",
+      "image": "https://www.shutterstock.com/image-photo/delicious-grilled-burgers-260nw-1146199442.jpg",
+      "price": 234,
+      "id": 3
+    }
+  ]
+}

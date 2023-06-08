@@ -1,0 +1,69 @@
+{
+  "userData": [
+    {
+      "id": 1685734215255,
+      "email": "sambitsahoo759@gmail.com",
+      "password": "123",
+      "name": "Street",
+      "phone": "7077"
+    }
+  ],
+  "userRecepie": [
+    {
+      "id": 1685734712907,
+      "foodName": "Biryani",
+      "foodPrice": "345",
+      "foodUrl": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=612x612&w=0&k=20&c=9xEw3VOQSz9TP8yQr60L47uExyKF9kogRhQdlghlC00=",
+      "foodDesc": "Biryani (/bɜːrˈjɑːni/) is a mixed rice dish originating among the Muslims of South Asia. It is made with Indian spices, vegetables, rice, and usually some type of meat (chicken, beef, goat, lamb, prawn, and fish), or in some cases without any meat, and sometimes, in addition, eggs and potatoes."
+    },
+    {
+      "id": 1685736736874,
+      "foodName": "Dosa",
+      "foodPrice": "140",
+      "foodUrl": "https://static01.nyt.com/images/2015/01/28/dining/28KITCHEN1/28KITCHEN1-superJumbo.jpg",
+      "foodDesc": "A dosa is South Indian, fermented crepe made from rice batter and black lentils. Masala Dosa, specifically, is when you stuff it with a lightly cooked filling of potatoes, fried onions and spices. Price-140rs"
+    },
+    {
+      "id": 1685736897162,
+      "foodName": "Burger",
+      "foodPrice": "200",
+      "foodUrl": "https://media.gettyimages.com/id/1254672762/photo/delicious-homemade-hamburger-and-french-fries.jpg?s=612x612&w=gi&k=20&c=7gKvEOXS-TdFFGac5xrh4XW6ZPPZ8wmrerRkTPbrLwY=",
+      "foodDesc": "A burger is a flat round mass of minced meat or vegetables, which is fried and often eaten in a bread roll."
+    },
+    {
+      "id": 1685736973244,
+      "foodName": "Pasta",
+      "foodPrice": "150",
+      "foodUrl": "https://st2.depositphotos.com/1326558/7226/i/600/depositphotos_72263189-stock-photo-penne-pasta-in-tomato-sauce.jpg",
+      "foodDesc": "pasta. noun. pas·​ta ˈpäs-tə : a dough of flour, eggs, and water made in different shapes and dried (as spaghetti or macaroni) or used fresh (as ravioli) : a dish of cooked pasta."
+    },
+    {
+      "id": 1685737068132,
+      "foodName": "Rasogola",
+      "foodPrice": "10",
+      "foodUrl": "https://c8.alamy.com/comp/EYERG9/indian-rasgulla-sweetdessert-EYERG9.jpg",
+      "foodDesc": "Rasgulla (literally \"syrup filled roll\") is a syrupy dessert popular in the eastern part of South Asia. It is made from ball-shaped dumplings of chhena dough, cooked in light sugar syrup made of sugar. This is done until the syrup permeates the dumplings."
+    },
+    {
+      "id": 1685737210453,
+      "foodName": "Chicken Curry",
+      "foodPrice": "160",
+      "foodUrl": "https://t4.ftcdn.net/jpg/04/26/40/87/360_F_426408748_LtPCz9JbtgcGWwkH4qLVvdN7bk2zK1RV.jpg",
+      "foodDesc": "A typical curry from the Indian subcontinent consists of chicken stewed in an onion- and tomato-based sauce, flavoured with ginger, garlic, tomato puree, chilli peppers and a variety of spices, often including turmeric, cumin, coriander, cinnamon, and cardamom."
+    },
+    {
+      "id": 1685737274046,
+      "foodName": "Nan",
+      "foodPrice": "40",
+      "foodUrl": "https://media.istockphoto.com/id/1143530040/photo/indian-naan-bread-with-garlic-butter-on-wooden-table.jpg?s=612x612&w=0&k=20&c=71SgbJtnfiHUiud1oGxnhiZsx5nuivWwZt8DlIk8hi0=",
+      "foodDesc": "Naan is a teardrop-shaped bread that is baked in a tandoor (traditional Indian clay oven) and served with various curries. The tandoor is rounded and has a beehive shape."
+    },
+    {
+      "id": 1685737361886,
+      "foodName": "Paratha",
+      "foodPrice": "49",
+      "foodUrl": "https://thumbs.dreamstime.com/b/indian-breakfast-aloo-paratha-potato-pancakes-served-yogurt-dip-87658775.jpg",
+      "foodDesc": "Laccha paratha is a unique flatbread which can be made with both wheat flour and all-purpose flour. It is traditionally fried with ghee and becomes crispy and flaky, and the layers can be visible from outside. It can be served with your favourite curries"
+    }
+  ]
+}
