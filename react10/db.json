@@ -1,0 +1,29 @@
+{
+    "mydata":[
+        {
+            "id": 1,
+            "title": "Iron Man",
+            "url": "https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg"
+          },
+          {
+            "id": 2,
+            "title": "Captain America",
+            "url": "https://i.pinimg.com/originals/6a/2e/a1/6a2ea1039b9100aad4d47dacca5a8654.webp"
+          },
+          {
+            "id": 3,
+            "title": "Thor",
+            "url": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_FMjpg_UX1000_.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Spider Man",
+            "url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/b0OfuUs4lHGWG4VNlHcXwL5a.jpg"
+          },
+          {
+            "id": 5,
+            "title": "Loki",
+            "url": "https://i.ytimg.com/vi/9juEmJK0JP8/maxresdefault.jpg"
+          }
+    ]
+}
