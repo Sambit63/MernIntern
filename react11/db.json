@@ -1,0 +1,184 @@
+{
+    "mymovies": [
+      {
+        "id": 1,
+        "title": "Iron Man",
+        "url": "https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Captain America",
+        "url": "https://i.pinimg.com/originals/6a/2e/a1/6a2ea1039b9100aad4d47dacca5a8654.webp"
+      },
+      {
+        "id": 3,
+        "title": "Thor",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Spider Man",
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/b0OfuUs4lHGWG4VNlHcXwL5a.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Loki",
+        "url": "https://i.ytimg.com/vi/9juEmJK0JP8/maxresdefault.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Pirates of the Caribbean",
+        "url": "https://m.media-amazon.com/images/M/MV5BNWY5NDEwMTctZmZhMS00MjBhLTkxM2MtZGM3ZWFiN2MxMTk0XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Peaky Blinders",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjYzZDgzMmYtYjY5Zi00YTk1LThhMDYtNjFlNzM4MTZhYzgyXkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_.jpg"
+      },
+      {
+        "id": 8,
+        "title": "The Social Network",
+        "url": "https://wallpapercave.com/wp/wp5959638.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Sangchi",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Money Hiest",
+        "url": "https://resizing.flixster.com/ITt1FPrFePNR6FSqZrZK7BocG2U=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjEwMTMyOTMud2VicA=="
+      },
+      {
+        "id": 11,
+        "title": "RRR",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGEzYzcxYjAtZmZiNi00YzI0LWIyY2YtOTM0MDFjODU2YTZiXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_.jpg"
+      },
+      {
+        "id": 12,
+        "title": "KGF",
+        "url": "https://m.media-amazon.com/images/M/MV5BZDNlNzBjMGUtYTA0Yy00OTI2LWJmZjMtODliYmUyYTI0OGFmXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Pushpa",
+        "url": "https://images.thequint.com/thequint/2021-12/76c6c3c6-b841-4ce0-bdf9-cf98adc2109f/Screenshot_2021_12_17_at_7_35_01_PM.png"
+      },
+      {
+        "id": 14,
+        "title": "After",
+        "url": "https://m.media-amazon.com/images/M/MV5BZGIzYzk3OGItYTQzMS00MmMwLWE5NjgtM2FkZmVmMzkwYWFjXkEyXkFqcGdeQXVyOTY2Mjg4NTU@._V1_.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Titanic",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": 16,
+        "title": "Inception",
+        "url": "https://occ-0-38-1007.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABRO7wCHTwNucNkQ1jGsVVQj7mn5HFo28f1JnePEK37bAlWVFUI1hnay7nrEU2TFzBMWAhtjmsltPsos-Z_hxhy9SMU8UQDNiQjws.jpg?r=9d5"
+      },
+      {
+        "id": 17,
+        "title": "Shutter Island",
+        "url": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Don't Look Up",
+        "url": "https://m.media-amazon.com/images/M/MV5BNzk0OWQzMDQtODg1ZC00Yjg2LWJjYzAtNGRjMjE2M2FlYjZjXkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg"
+      },
+      {
+        "id": 19,
+        "title": "Squid Game",
+        "url": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": 20,
+        "title": "Red Notice",
+        "url": "https://m.media-amazon.com/images/M/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+      },
+      {
+        "id": 21,
+        "title": "Free Guy",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": 22,
+        "title": "Lucifer",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDJjMzc4NGYtZmFmNS00YWY3LThjMzQtYzJlNGFkZGRiOWI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": 23,
+        "title": "Avatar",
+        "url": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_.jpg"
+      },
+      {
+        "id": 24,
+        "title": "Now You See Me",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": 25,
+        "title": "The Dark Night",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": 26,
+        "title": "The Meg",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTAxMGRmODYtM2NkYS00ZGRlLWE1MWItYjI1MzIwNjQwN2RiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+      },
+      {
+        "id": 27,
+        "title": "The Adam Project",
+        "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/The_Adam_Project_poster.png"
+      },
+      {
+        "id": 28,
+        "title": "DeadPool",
+        "url": "https://lumiere-a.akamaihd.net/v1/images/image_8c4aa72b.jpeg?region=0%2C0%2C800%2C1200"
+      },
+      {
+        "id": 29,
+        "title": "Bahubali2",
+        "url": "https://m.media-amazon.com/images/M/MV5BMmM3ODk3MDgtZjQwZi00Y2ZhLTg0YTItMTJiNmNjNzRkYmQ4XkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_.jpg"
+      },
+      {
+        "id": 30,
+        "title": "Extinction",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU5OTYzMzcwOF5BMl5BanBnXkFtZTgwNTkzMzk4NTM@._V1_.jpg"
+      },
+      {
+        "id": 31,
+        "title": "Passengers",
+        "url": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/chameleon/title-movie/DP_3244378_PASSENGERS%20%282016%29_1400x2100_English%20%28US%29_2.jpg?itok=TYolDZ12"
+      },
+      {
+        "id": 32,
+        "title": "Tomorrow War",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTI2YTI0MWEtNGQ4OS00ODIzLWE1MWEtZGJiN2E3ZmM1OWI1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": 33,
+        "title": "Captain Marvel",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "id": "34",
+        "title": "Young Sheldon",
+        "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQraysOupYLylhhVKr3ZdLgukpHGahps6TsDG_uU7Md-GIbDT8X"
+      },
+      {
+        "id": "35",
+        "title": "Black Adam",
+        "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNSOjcSmrXYIZ517jTKmCDxBwIJU4_ojFweUDLI1Dssn2UfTsx"
+      },
+      {
+        "id": "36",
+        "title": "Fast X",
+        "url": "https://movies.universalpictures.com/media/fstx-montage1sheet2-rgb-1-64108e93e63dd-1.jpg"
+      }
+    ]
+  }
